@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Luca 👋
 
-<!--
-**cabrinilm/cabrinilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building full-stack applications using JavaScript, TypeScript, React, and Node.js.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-stack developer
+- 🌱 Currently improving my backend and system design skills
+- ⚡ Experience building real-world applications and deploying them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- JavaScript / TypeScript
+- React / Node.js / Express
+- PostgreSQL / Supabase
+- Git / REST APIs
+
+## 🔥 Featured Project
+### Pulse Hub
+Full-stack event management platform
+
+🔗 Live: https://pulse-hub-frontend.vercel.app  
+💻 Code: https://github.com/cabrinilm/pulse-hub
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/cabriniluca
