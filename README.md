@@ -1,9 +1,9 @@
 # Hi, I'm Luca 👋
 
-Software Developer focused on building full-stack applications using JavaScript, TypeScript, React, and Node.js.
+Software Developer building full-stack applications using React, Node.js, and TypeScript.
 
 ## 🚀 About Me
-- 💻 Full-stack developer
+- 💻 Full-stack developer focused on web applications
 - 🌱 Currently improving my backend and system design skills
 - ⚡ Experience building real-world applications and deploying them
 
@@ -13,7 +13,7 @@ Software Developer focused on building full-stack applications using JavaScript,
 - PostgreSQL / Supabase
 - Git / REST APIs
 
-## 🔥 Featured Project
+## 🚀 Featured Project
 ### Pulse Hub
 Full-stack event management platform
 
